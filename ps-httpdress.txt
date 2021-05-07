@@ -1,1 +1,2 @@
-https://github.com/miranayyk/girls-name.git
+origin: https://github.com/miranayyk/girls-name.git
+origin1: https://gitee.com/yao_yong_kang/girlsjiaminameaaaa
